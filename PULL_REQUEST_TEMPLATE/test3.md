@@ -1,7 +1,7 @@
 ---
 name: Test PR Template
 about: Just testing
-title: MSCCLOUD-XXX:
+title: 'MSCCLOUD-XXX:'
 labels: ''
 assignees: ''
 

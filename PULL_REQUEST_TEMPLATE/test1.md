@@ -1,7 +1,7 @@
 ---
 name: Hybrid Cloud PR
 about: Pull request for Hybrid Cloud tasks.
-title: MSCCLOUD-XXX:
+title: 'MSCCLOUD-XXX:'
 labels: ''
 assignees: ''
 
